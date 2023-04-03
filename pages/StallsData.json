@@ -43,8 +43,8 @@
        "_id":"10",
        "title":"Hit the wicket",
        "organizer": "vishnu vardhan"
-    },
-    {
+     },
+     {
         "_id":"11",
         "title":"Box Cricket",
         "organizer": "Ch.Vedanth"
@@ -54,11 +54,11 @@
         "title":"watermelon",
         "organizer": "Murali"
      },
-    {
+     {
        "_id":"14",
        "title":"Compatability test",
        "organizer": "Sathvik"
-    },
+     },
     {
         "_id":"15",
         "title":"ice pops and nuggets",
